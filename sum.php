@@ -13,24 +13,7 @@
         
      
 
-/* Cách 1*/
 
-        // $num1 =' ';
-        // $num2 =' ';
-        // $total = ' ';
-        // $num1 = $_POST['num1'];
-        // $num2 = $_POST['num2'];
-        // if(isset($_POST['submit'])){       
-        //     if($num1 != '' && $num2 !=''){
-        //        if(is_numeric($num1) && is_numeric($num2)){
-        //                 $total = $num1 + $num2;
-        //             }else{
-        //                 echo 'Giá trị nhập phải là số';
-        //             }
-        //         }else{
-        //             echo 'Vui lòng nhập giá trị vào ô';
-        //         }
-  // }
 
 
   /* Cách 2*/
